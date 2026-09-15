@@ -35,9 +35,13 @@ The platform brings together useful student services such as **course reviews, u
 ## 💻 Technologies
 
 **Frontend:** HTML5, CSS3, JavaScript
+
 **Backend:** PHP
+
 **Database:** MySQL
+
 **Database Management:** phpMyAdmin
+
 **Development Environment:** XAMPP, Visual Studio Code
 
 ## 🗄️ Database
