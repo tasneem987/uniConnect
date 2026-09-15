@@ -8,7 +8,19 @@ The platform brings together useful student services such as **course reviews, u
 
 ## 📸 Project Screenshots
 
-<img width="1359" height="648" alt="Screenshot 2026-09-15 143409" src="https://github.com/user-attachments/assets/058654ff-f0ce-4890-bf6c-4aeab017fe95" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4adb423f-9f70-47b8-9c8f-d87bf15daa0f" width="400"></td>
+    <td><<img src="https://github.com/user-attachments/assets/c9bb40d1-4bc6-411c-8202-5707d26a0866" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/3e347d7e-ca52-4291-9098-25f55a03d865" width="400"></td>
+  </tr>
+  <tr>
+    
+    <td><img src="https://github.com/user-attachments/assets/2cc599ba-1014-4071-9a14-8bc2e8f79946" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/494dd2f3-8c91-4536-9d64-ff8fdd6d49a6" width="400"></td>
+  </tr>
+</table>
+
 
 
 ## ✨ Features
