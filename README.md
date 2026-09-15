@@ -15,7 +15,6 @@ The platform brings together useful student services such as **course reviews, u
     <td><img src="https://github.com/user-attachments/assets/3e347d7e-ca52-4291-9098-25f55a03d865" width="400"></td>
   </tr>
   <tr>
-    
     <td><img src="https://github.com/user-attachments/assets/2cc599ba-1014-4071-9a14-8bc2e8f79946" width="400"></td>
     <td><img src="https://github.com/user-attachments/assets/494dd2f3-8c91-4536-9d64-ff8fdd6d49a6" width="400"></td>
   </tr>
