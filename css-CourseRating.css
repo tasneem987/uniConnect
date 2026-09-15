@@ -1,0 +1,85 @@
+header{
+background-image: url('bg16.png');
+background-color: rgb(219, 219, 235);
+}
+.search {
+  display: flex;
+  justify-content: center; /* push content to the right */
+  gap: 10px;
+  padding: 10px;
+  
+}
+
+.search input {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.search button {
+  padding: 8px 16px;
+  background-color: rgb(201, 39, 66);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.search button:hover {
+  background-color:  rgb(158, 9, 34);
+}
+
+
+.Offers {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 40px;
+  max-width: 600px;      /* optional: makes it neater */
+  margin: 0 auto;         /* center it */
+  font-family:Courier New;
+  font-size: 1.3em;
+}
+
+.courses {
+  width: 100%;                      /* force full width inside Offers */
+  box-sizing: border-box;          /* include padding/border in width */
+  background-color: rgb(255, 229, 234);
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.courses p{font-family: Fira Code;}
+.courses:hover {
+  transform: translateY(-5px);
+}
+
+.icon ion-icon {
+  font-size: 2em;
+  color: rgb(201, 39, 66);
+  display: flex; 
+}
+
+
+.reviews {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: Fira Code;
+}
+
+.review-box {
+  background-color: #f9f9f9;
+  padding: 10px 15px;
+  border-left: 4px solid rgb(158, 9, 34);
+  border-radius: 5px;
+  font-size: 14px;
+  color: #333;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
